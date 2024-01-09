@@ -1,4 +1,4 @@
-# IT Practical Test For MERN by Kabra Logitech Pvt. Ltd
+# IT Practical Test For MERN 
 
 This project consists of Node.js backend APIs (MongoDB, Mongoose, TypeScript) and a React.js frontend (React, Redux, Redux-thunk, Bootstrap) to manage products and a shopping cart.
 
